@@ -1,0 +1,45 @@
+
+  mark{
+    background-color: chocolate;
+    color:black;
+  }
+
+
+
+div{
+    text-align:center;}
+  
+body{background-color:coral;
+    font-family: cursive;
+
+}ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    overflow:hidden;
+    background-color:#ff8c1a;
+    
+  }
+  li{float:left;}
+  li a {
+    display: block;
+    color: #000;
+    padding: 14px 16px;
+    text-allign:center;
+    text-decoration: none;
+  }
+  
+
+  li a:hover {
+    background-color: #555;
+    color: white;
+  } .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:brown;
+    color: white;
+    text-align: center;
+ }
